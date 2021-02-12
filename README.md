@@ -12,7 +12,7 @@ Engenheira Florestal formada na Universidade Federal de Santa Maria com mestrado
 Lista de projetos em Jupyter Notebook:
 
 
-* **Análise dos Dados do Airbnb para Viena:** https://bit.ly/3rNPehx
+* **Análise dos Dados do Airbnb para Viena:** http://bit.ly/3qkxFoY
 
 
 ---
